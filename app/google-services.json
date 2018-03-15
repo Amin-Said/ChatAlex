@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "211858936610",
+    "firebase_url": "https://chatalex-ffe8f.firebaseio.com",
+    "project_id": "chatalex-ffe8f",
+    "storage_bucket": "chatalex-ffe8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211858936610:android:e2fddcd18102b86f",
+        "android_client_info": {
+          "package_name": "com.example.amin.chatalex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211858936610-ov3totrg4fd9214bhgq2lg8vv3sma133.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXHBdYKSji5KpQjXKiKAD_rbKgVgqp0-I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
